@@ -1,0 +1,144 @@
+ .u-section-1 {
+  min-height: 1193px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 646px;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("images/RedModernHiringInstagramPost9.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 30px 125px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 12px auto 48px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 487px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 14px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Agbalumo;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-style: italic;
+  margin: 24px auto 0 12px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 487px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Agbalumo;
+  margin: 24px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-style: italic;
+  margin: 14px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1018px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 50px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 402px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 402px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 1120px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1170px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1145px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 403px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}
